@@ -1,6 +1,6 @@
 ## Merhaba, ben Mert Melih Yüksek 👋
 
-Tarsus Üniversitesi'nde Bilgisayar Mühendisliği okuyorum. Bilgisayarlı görü, Android ve web üzerinde, gerçek bir kullanıcının gerçek bir sorununu çözen projeler geliştiriyorum.
+Tarsus Üniversitesi'nde Bilgisayar Mühendisliği okuyorum.
 
 ### Öne çıkan projeler
 
